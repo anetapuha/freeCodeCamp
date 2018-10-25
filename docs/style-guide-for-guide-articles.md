@@ -1,10 +1,10 @@
 # Style guide for creating and editing Guide Articles
 
-We recommend the following guidelines to writing Guide articles to help you get started contributing and create helpful articles.
+We recommend the following guidelines to get you started contributing and creating helpful Guide Articles.
 
 ## Title
 
-Article titles should be as short, concise, and to-the-point as possible.
+Article titles should be as short, concise, and to-the-point.
 
 We want campers to quickly find the information they're looking for, and the title should reflect the main theme of the article.
 
@@ -48,7 +48,7 @@ Our goal is to have thousands of articles that cover a broad range of technical 
 
 ## Code Blocks
 
-Campers will likely use Guide articles as a quick reference to look up syntax. Articles should have simple real-world examples that show common-use cases of that syntax.
+Campers will likely use Guide Articles as a quick reference to look up syntax. Articles should have simple real-world examples that show common-use cases of that syntax.
 
 GitHub-flavored markdown supports [syntax highlighting in code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/#syntax-highlighting) for many programming languages.
 
@@ -111,7 +111,7 @@ Use Markdown style links in your articles to link to other websites.
 ```
 
 > **Important**
-> Make sure that you are using HTTPS links. This is very important to avoid insecure content warnings.
+> Make sure that you are using HTTPS links. This is very important to avoid unsecure content warnings.
 >
 > Also, do not use short links like `bit.ly` or `amzn.to` links. This is a security risk. Short links are [vulnerable to redirection based attacks](https://security.stackexchange.com/questions/59517/are-url-shorteners-vulnerable-due-to-open-redirects).
 >
@@ -150,11 +150,11 @@ You can also add diagrams, graphics, or visualizations as necessary.
 
 You can even embed relevant YouTube videos and interactive [REPL.it](https://repl.it/) code editors.
 
-Don't use emojis or emoticons in the Guide. freeCodeCamp has a global community, and the cultural meaning of an emoji or emoticon may be different around the world. Also, emojis can render differently on different systems.
+Don't use emojis or emoticons in the Guide Article. freeCodeCamp has a global community, and the cultural meaning of an emoji or emoticon may be different around the world. Also, emojis can render differently on different systems.
 
 ## Attributions
 
-To minimize the potential for plagiarism and maintain integrity in this guide, it is important to give credit where necessary.
+To minimize the potential for plagiarism and maintain integrity in our article, it is important to give credit where necessary.
 
 Any material quoted, or used directly and unchanged, from source material should be wrapped in quotation marks and be adequately cited. Material that is not a direct quote but is still paraphrased from a different resource should also be cited.
 
@@ -201,7 +201,7 @@ Please refer to and review freeCodeCamp's [Academic Honesty Policy](https://www.
 
 ## Resources
 
-If there are other Guide resources you think campers would benefit from, add them at the bottom in a "Resources" section with a bulleted list.
+If there are other guide resources you think campers would benefit from, add them at the bottom in a "Resources" section with a bulleted list.
 
 ```markdown
 ### Resources
@@ -273,7 +273,7 @@ For example, `"In computer science, an abstract syntax tree (AST) is ..."`
 
 ## Proper nouns
 
-Proper nouns should use correct capitalization when possible. Below is a list of words as they should appear in Guide articles.
+Proper nouns should use correct capitalization when possible. Below is a list of words as they should appear in Guide Articles.
 
 - JavaScript (capital letters in "J" and "S" and no abbreviations)
 - Node.js
