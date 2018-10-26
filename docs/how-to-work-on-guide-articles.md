@@ -1,10 +1,10 @@
-# How to work on Guide articles
+# How to work on Guide Articles
 
 With your help, we can create a comprehensive reference tool that will help millions of people who are learning to code for years to come. 💛
 
 You can:
 
-- [Help us by Creating and Editing Guide Articles](#steps-for-creating-and-editing-guide-articles).
+- [Help us by creating and editing Guide Articles](#steps-for-creating-and-editing-guide-articles).
 - [Help us reviewing pull requests for Guide Articles]()
 
 ## Steps for Creating and Editing Guide Articles
@@ -18,11 +18,11 @@ You can:
 
 Or just [create an issue](https://github.com/freeCodeCamp/freeCodeCamp/issues) - any little bit of help counts! 😊
 
-### [Follow these recommended guidelines in from our Style guide for a compelling guide article](/docs/style-guide-for-guide-articles.md)
+### [Follow the recommended guidelines in our style guide for a compelling guide article](/docs/style-guide-for-guide-articles.md)
 
 ### Creating a Pull request (PR) to propose changes
 
-There are two ways you can propose a change to the repository, after you edit or add a Guide article:
+There are two ways you can propose a change to the repository, after you edit or add a Guide Article:
 
 - [Using the GitHub Web Interface on your browser](#using-the-github-web-interface-on-your-browser).
 - [Working on your local machine (_recommended_ for previewing changes)](#working-on-your-local-machine-recommended-for-previewing-changes).
@@ -56,7 +56,7 @@ Watch the video demonstration or follow the steps below it:
     docs: update contributing guidelines
     ```
 
-    Keep these short, not more than 50 characters. You can always add additional information in the description of the commit message.
+    Keep these short, no more than 50 characters. You can always add additional information in the description of the commit message.
 
     This does not take any additional time than a unconventional message like 'update file' or 'add index.md'
 
